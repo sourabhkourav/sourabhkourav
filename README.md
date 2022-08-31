@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/sourabhkourav/count.svg" />
+</h3>
