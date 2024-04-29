@@ -2,10 +2,6 @@
   <h1 style="font-family: Arial, sans-serif; color: #343a40;">Hi 👋, I'm Sourabh Kourav</h1>
   <h3 style="font-family: Arial, sans-serif; color: #343a40;">A passionate backend developer</h3>
   
-  <h3 style="font-family: Arial, sans-serif; color: #343a40;">Visitor's count <br>
-    <img src="https://profile-counter.glitch.me/sourabhkourav/count.svg" />
-  </h3>
-  
   <h3 style="font-family: Arial, sans-serif; color: #343a40;">Connect with me:</h3>
   <div>
     <a href="https://twitter.com/isourabhkourav" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30"></a>
@@ -34,12 +30,21 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40">
   </div>
   
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhkourav&show_icons=true&locale=en&layout=compact" alt="Top Languages">
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=sourabhkourav&show_icons=true&locale=en" alt="GitHub Stats">
-  </p>
-  
-  <!-- current streak numbers -->
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhkourav&" alt="GitHub Streak"></p>
-</center>
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhkourav&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
+</p>
+
+<p align="center">
+<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhkourav&theme=blue-green" />
+</p>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhkourav&show_icons=true&theme=blue-green&line_height=21"/>
+</p>
+
+<p align="center">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=sourabhkourav&theme=dracula" alt="Rishabh's github trophy"/></p>
+
+  <h3 style="font-family: Arial, sans-serif; color: #343a40;">Visitor's count <br>
+    <img src="https://profile-counter.glitch.me/sourabhkourav/count.svg" />
+  </h3>
