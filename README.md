@@ -35,17 +35,17 @@
 </p>
 
 <p align="center">
-<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhkourav&theme=blue-green" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhkourav&show_icons=true&theme=blue-green&line_height=21"/>
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhkourav&show_icons=true&theme=blue-green&line_height=21"/>
+<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhkourav&theme=blue-green" />
 </p>
 
 <p align="center">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=sourabhkourav&theme=dracula" alt="Rishabh's github trophy"/>
 </p>
 
-  <h3 align="center"; style="font-family: Arial, sans-serif; color: #343a40;">Visitor's count <br>
-    <img src="https://profile-counter.glitch.me/sourabhkourav/count.svg" />
-  </h3>
+<h3 align="center"; style="font-family: Arial, sans-serif; color: #343a40;">Visitor's count <br>
+  <img src="https://profile-counter.glitch.me/sourabhkourav/count.svg" />
+</h3>
