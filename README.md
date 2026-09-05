@@ -18,6 +18,9 @@
   <a href="https://leetcode.com/sourabhkourav/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Sourabh's LeetCode profile" />
   </a>
+  <a href="https://www.hackerrank.com/sourabhkourav422">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Sourabh's HackerRank profile" />
+  </a>
 </p>
 
 ## About me
@@ -39,8 +42,8 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sourabhkourav/WalkIn">WalkIn</a></h3>
-      <p>A project where I experiment, build, and strengthen my backend development skills.</p>
-      <p><code>Backend Development</code> <code>Learning by Building</code></p>
+      <p>A full-stack Spring Boot application for organizing and managing walk-in recruitment drives.</p>
+      <p><code>Java</code> <code>Spring Boot</code> <code>Full Stack</code></p>
     </td>
   </tr>
 </table>
@@ -52,40 +55,36 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
 **Data**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
 
-**Cloud, tools & observability**
+**Cloud, tools & testing**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ## GitHub snapshot
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sourabhkourav&theme=github_dark" alt="Sourabh's GitHub statistics" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourabhkourav&theme=github_dark" alt="Sourabh's repositories by language" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sourabhkourav&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sourabhkourav&theme=github" />
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sourabhkourav&theme=github" alt="Sourabh's GitHub statistics" />
+  </picture>
 </p>
 
-## Let's connect
-
-<p>
-  <a href="https://www.linkedin.com/in/sourabhkourav/">LinkedIn</a> ·
-  <a href="https://www.hackerrank.com/sourabhkourav422">HackerRank</a> ·
-  <a href="https://leetcode.com/sourabhkourav/">LeetCode</a> ·
-  <a href="mailto:sourabhkourav422@gmail.com">Email</a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourabhkourav&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourabhkourav&theme=github" />
+    <img width="680" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourabhkourav&theme=github" alt="Sourabh's GitHub contribution summary" />
+  </picture>
 </p>
