@@ -77,8 +77,8 @@
 ## GitHub snapshot
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sourabhkourav&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Sourabh's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhkourav&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Sourabh's most used languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sourabhkourav&theme=github_dark" alt="Sourabh's GitHub statistics" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourabhkourav&theme=github_dark" alt="Sourabh's repositories by language" />
 </p>
 
 ## Let's connect
